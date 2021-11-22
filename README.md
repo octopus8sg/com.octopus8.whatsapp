@@ -56,7 +56,7 @@ To integrate with wati templates I included custom template form:
 
 ``"variable 1"`` - content of parameter
 
-For example: 
+### For example: 
 
 wati template name: ```woocommerce_default_follow_up_v1```
 
@@ -70,14 +70,15 @@ where they will be able to guide you through any requests.
 Thanks.
 ```
 
-bosy of outbound SMS must be:
+#### body of outbound SMS must be:
 
 ```
 [[woocommerce_default_follow_up_v1]]
 {{name===Mr. Simon}}
 {{shop_name===Gig market}}
 ```
-and reciver will get:
+#### and reciver will get:
+
 ```
 Dear Mr. Simon, this is Gig market.
 
