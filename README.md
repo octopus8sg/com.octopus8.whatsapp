@@ -54,7 +54,7 @@ To integrate with wati templates I included custom template form:
 
 ```===``` - separator between parameter name and variable.(required)
 
-``variable 1`` - content of parameter
+``"variable 1"`` - content of parameter
 
 For example: 
 
