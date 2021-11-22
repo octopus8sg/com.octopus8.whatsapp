@@ -63,7 +63,10 @@ wati template name: ```woocommerce_default_follow_up_v1```
 ```
 Dear {{name}}, this is {{shop_name}}.
 
-If you have any questions, please feel free to let me know, you can talk to our consultants here on Whatsapp where they will be able to guide you through any requests.
+If you have any questions, please feel free to let me know, 
+you can talk to our consultants here on Whatsapp 
+where they will be able to guide you through any requests.
+
 Thanks.
 ```
 
@@ -78,6 +81,9 @@ and reciver will get:
 ```
 Dear Mr. Simon, this is Gig market.
 
-If you have any questions, please feel free to let me know, you can talk to our consultants here on Whatsapp where they will be able to guide you through any requests.
+If you have any questions, please feel free to let me know, 
+you can talk to our consultants here on Whatsapp 
+where they will be able to guide you through any requests.
+
 Thanks.
 ```
